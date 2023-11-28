@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dogs</string>
+    <string name="button_next_image">Next image</string>
+    <string name="error_loading">Error on loading image!</string>
+</resources>
